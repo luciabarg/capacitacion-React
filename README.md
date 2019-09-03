@@ -1,4 +1,4 @@
-### capacitacion-React thanks to Rodrigo Pizarro (Yuniku Software)
+## capacitacion-React thanks to Rodrigo Pizarro (Yuniku Software)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
